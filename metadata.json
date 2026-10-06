@@ -1,0 +1,32 @@
+{
+  "version": "2.0.0",
+  "organization": "NeuroForge Remotion",
+  "origin-date": "April 2026",
+  "last-updated": "October 2026",
+  "authors": [
+    {
+      "name": "Jonny Burger",
+      "github": "https://github.com/JonnyBurger",
+      "role": "Remotion creator; author of the official Remotion Agent Skills vendored in references/remotion-dev"
+    },
+    {
+      "name": "cayopoku",
+      "github": "https://github.com/cayopoku",
+      "role": "NeuroForge workflow, motion-design and scripting layer"
+    }
+  ],
+  "abstract": "NeuroForge Remotion is a specialised engineering system for building premium motion graphics and high-converting videos with Remotion, React, and TypeScript. It enforces a severity-tiered Analysis First workflow using NeuroForge memory files (one message, script, scene direction, then code), holds every frame to senior motion-design standards (easing vocabulary, stagger and overlap, kinetic typography, depth, rhythm, a planned signature moment), applies conversion-copywriting and persuasion psychology to the script, and closes every analysis with a Motion Quality Verdict. All Remotion API guidance defers to the official Remotion Agent Skills (v4.0.533), bundled under references/remotion-dev.",
+  "upstream": {
+    "name": "remotion-dev/skills",
+    "url": "https://github.com/remotion-dev/skills",
+    "version": "4.0.533",
+    "path": "skills/neuroforge-remotion/references/remotion-dev"
+  },
+  "references": [
+    "https://www.remotion.dev/docs",
+    "https://github.com/remotion-dev/skills",
+    "https://www.remotion.dev/prompts",
+    "https://github.com/remotion-dev/remotion",
+    "https://easings.net/"
+  ]
+}
